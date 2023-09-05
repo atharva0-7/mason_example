@@ -1,0 +1,1 @@
+class {{feature_name}}Bloc extends Bloc<{{feature_name}}Event,{{feature_name}}State>{}
